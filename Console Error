@@ -1,0 +1,15 @@
+28.10 23:24:37 [Server] INFO at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+28.10 23:24:37 [Server] INFO at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:567) [marian.jar:git-Spigot-455072c-2f5bda8]
+28.10 23:24:37 [Server] INFO at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:668) [marian.jar:git-Spigot-455072c-2f5bda8]
+28.10 23:24:37 [Server] INFO at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:400) [marian.jar:git-Spigot-455072c-2f5bda8]
+28.10 23:24:37 [Server] INFO at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:723) [marian.jar:git-Spigot-455072c-2f5bda8]
+28.10 23:24:37 [Server] INFO at org.bukkit.craftbukkit.v1_10_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [marian.jar:git-Spigot-455072c-2f5bda8]
+28.10 23:24:37 [Server] INFO at org.bukkit.craftbukkit.v1_10_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[marian.jar:git-Spigot-455072c-2f5bda8]
+28.10 23:24:37 [Server] INFO at me.konsolas.aac.i.l.run(Unknown Source) ~[?:?]
+28.10 23:24:37 [Server] INFO at me.konsolas.aac.i.k.a(Unknown Source) ~[?:?]
+28.10 23:24:37 [Server] INFO at me.konsolas.aac.g.a.l.a(l.java) ~[?:?]
+28.10 23:24:37 [Server] INFO at me.konsolas.aac.g.a.l.a(l.java) ~[?:?]
+28.10 23:24:37 [Server] INFO at com.comphenix.protocol.reflect.StructureModifier.write(StructureModifier.java:328) ~[?:?]
+28.10 23:24:37 [Server] INFO at com.comphenix.protocol.reflect.StructureModifier.writeInternal(StructureModifier.java:352) ~[?:?]
+28.10 23:24:37 [Server] INFO com.comphenix.protocol.reflect.FieldAccessException: Field index out of bounds. (Index: 1, Size: 1)
+28.10 23:24:37 [Server] WARN [AAC] Task #5236 for AAC v1.9.10 generated an exception
